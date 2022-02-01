@@ -1,0 +1,20 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "#### Description 监听webhooks，自动部署项目",
+  "main": "index.js",
+  "dependencies": {
+    "gitee-webhook-handler": "^0.1.2",
+    "github-webhook-handler": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/gnaloaixey/deploy.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
